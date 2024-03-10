@@ -1,20 +1,20 @@
 {
-  "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "declaration": true,
-    "outDir": "./lib",
-    "strict": true,
-    "noImplicitAny": true,
-    "strictNullChecks": false,
-    "strictFunctionTypes": true,
-    "strictBindCallApply": true,
-    "noImplicitThis": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "esModuleInterop": true,
-    "moduleResolution": "Node"
-  },
-  "include": ["src", "jest.config.mjs"],
-  "exclude": ["node_modules"]
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"declaration": true,
+		"outDir": "./lib",
+		"strict": true,
+		"noImplicitAny": true,
+		"strictNullChecks": false,
+		"strictFunctionTypes": true,
+		"strictBindCallApply": true,
+		"noImplicitThis": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"esModuleInterop": true,
+		"moduleResolution": "Node"
+	},
+	"include": ["src", "jest.config.mjs"],
+	"exclude": ["node_modules"]
 }
